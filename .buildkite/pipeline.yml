@@ -2,4 +2,4 @@ agents:
   queue: "default"
 steps:
   - label: ":hammer: Tests"
-    command: utils/buildkite/scripts/tests.sh
+    command: utils/buildkite/scripts/test.sh
