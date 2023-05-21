@@ -1,5 +1,5 @@
 agents:
   queue: "default"
 steps:
-  - label: "Example Test"
-    command: echo "Hello!"
+  - label: ":hammer: Tests"
+    command: utils/buildkite/scripts/tests.sh
