@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>macOS Software Update Settings</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.SoftwareUpdate.ED6C4ED3-96C8-42F3-8809-CE277FE53882</string>
+	<string>com.apple.SoftwareUpdate.D0132A21-B6A4-49C0-98CC-E4A1D9B4138B</string>
 	<key>PayloadOrganization</key>
 	<string>Contoso Inc</string>
 	<key>PayloadRemovalDisallowed</key>
