@@ -1,0 +1,5 @@
+agents:
+  queue: "default"
+steps:
+  - label: ":hammer: Tests"
+    command: python3 utils/buildkite/scripts/plist_check.py

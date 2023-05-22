@@ -1,0 +1,11 @@
+agents:
+  queue: "default"
+steps:
+  - label: "Trigger push branch pipelines"
+    plugins:
+      - monebag/monorepo-diff#v2.5.8:
+          diff: "git diff --name-only HEAD~1"
+          watch:
+            - path: "config-profile/"
+              config:
+                trigger: "config-profile-check"         
