@@ -26,7 +26,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate.BD836593-7D61-4796-A26B-F9564AB2F54D</string>
+			<string>com.apple.SoftwareUpdate.550DC9B-9AE0-4269-8EF3-F78747568AD6</string>
 			<key>PayloadOrganization</key>
 			<string>Contoso Inc</string>
 			<key>PayloadType</key>
