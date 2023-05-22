@@ -21,7 +21,7 @@ def check_plist_keys():
                     else:
                         profiles_check_result['invalid'].append(file.split('/')[-1])
     if len(profiles_check_result['invalid']) > 0:
-        print(f"Invalid profile found: {','.join(profiles_check_result['invalid'])}")
+        print(f"* Invalid profile found: {','.join(profiles_check_result['invalid'])}")
         assert len(profiles_check_result['invalid']) == 0
 
 
