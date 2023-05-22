@@ -8,4 +8,4 @@ steps:
           watch:
             - path: "config-profile/"
               config:
-                trigger: "config-proile-check"         
+                trigger: "config-profile-check"         
