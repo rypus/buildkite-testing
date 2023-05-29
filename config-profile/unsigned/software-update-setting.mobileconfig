@@ -26,7 +26,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate.BD836593-7D61-4796-A26B-F9564AB2F54D</string>
+			<string>com.apple.SoftwareUpdate.550DC9B-9AE0-4269-8EF3-F78747568AD6</string>
 			<key>PayloadOrganization</key>
 			<string>Contoso Inc</string>
 			<key>PayloadType</key>
@@ -40,7 +40,9 @@
 	<key>PayloadDisplayName</key>
 	<string>macOS Software Update Settings</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.SoftwareUpdate.ED6C4ED3-96C8-42F3-8809-CE277FE53882</string>
+	<key>PayloadDescription</key>
+	<string/>
+	<string>com.apple.SoftwareUpdate.D0132A21-B6A4-49C0-98CC-E4A1D9B4138B</string>
 	<key>PayloadOrganization</key>
 	<string>Contoso Inc</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -50,7 +52,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>76143A42-CC3B-46D2-9CCA-15381D36FC41</string>
+	<string>8AB76DEB-80B8-4F74-8AD5-F7C142F9530D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
